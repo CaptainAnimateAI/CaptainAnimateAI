@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm AnimateAI!
 
-<!--
-**CaptainAnimateAI/CaptainAnimateAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Goddamn GitHub profile! I'm a student. I have no idea what else you expected.
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🎓 **Student** Born to be an Engineer, Forced to be a goddamn Student.
+- 🧬 **Genetic Engineer** De-Extinction of Dinosaurs and whatever that died to that big ahh rock.
+- 📹 **Content Creator** Just a Regular ahh Dude who does YouTube for fun, def not unemployed.
+- 🏎️ **FORMULA ONE** - also Born to be a Racer, Forced to be an Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Bombs & Weapons
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="unrealengine logo"/><img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vulkan/vulkan-original.svg" height="40" alt="unity logo"/><img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" height="40" alt="unity logo"/><img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="arduino logo"/><img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" alt="raspberrypi logo"/><img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40" alt="raspberrypi logo"/><img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" height="40" alt="raspberrypi logo"/><img width="12"/>
+</div>
